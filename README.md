@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Myles
-[linkedin]: https://linkedin.com/in/Myles
+[linkedin]: https://linkedin.com/in/Mylesgray
