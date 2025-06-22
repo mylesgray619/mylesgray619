@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
  
  ## ⚠️ Vulnerability Management Projects
 
-  - **[Vulnerability Management Program Implementation](https://github.com/mylesgray619/Vulnerability-Management-Program/tree/main)**
+  - **[Vulnerability Management Program Implementation](https://github.com/mylesgray619/Vulnerability-Management-Program)**
 
 <h2>🤳Connect with me:</h2>
 
