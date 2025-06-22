@@ -1,4 +1,6 @@
-<h1>Hi, I'm Myles, an <a href="https://linkedin.com/in/Myles">IT Professional</a>☺</h1>
+<a href="https://www.linkedin.com/in/myles-gray-9870ba148/">Myles Gray</a>'s IT and Cybersecurity Project Portfolio 🔐
+
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
